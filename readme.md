@@ -4,7 +4,7 @@
  
 
 - 👋 Hello, I'm Artizno
-- I'm Full-Stack Blockchain Developer passionate about building decentralized apps and smart contracts across different platforms like EVM, Solana, and Cosmos SDK. With a love for problem-solving and a knack for making blockchain tech accessible, I'm work with Solidity, Rust, and Golang to create solutions that power DeFi, NFTs, and cross-chain projects.
+- I'm a tech-driven engineer passionate about exploring and building innovative systems across Software Engineering, Blockchain technologies, and LLM development. I love turning complex ideas into practical solutions—from decentralized applications and smart contracts to AI-powered tools that enhance real-world workflows.
 
 
 <h3 align="left">My Dev's Stats</h3>
